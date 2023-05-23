@@ -2,9 +2,15 @@
 
 # instructions
 
-go to tb-back and run `npm install && npm start`
+first, in order to manage the node versions I recommend [nvm](https://github.com/nvm-sh/nvm)
+
+set the node version to 14 with `nvm use 14`
+
+then go to tb-back and run `npm install && npm start`
 
 that should start the backend in port 3000
+
+set the node version to 16 with `nvm use 16`
 
 then go to tb-front and run `npm install && npm run dev`
 
